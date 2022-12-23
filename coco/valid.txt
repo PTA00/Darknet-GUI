@@ -1,0 +1,15 @@
+./coco/images/1.png
+./coco/images/10.png
+./coco/images/11.png
+./coco/images/12.png
+./coco/images/13.png
+./coco/images/14.png
+./coco/images/15.png
+./coco/images/2.png
+./coco/images/3.png
+./coco/images/4.png
+./coco/images/5.png
+./coco/images/6.png
+./coco/images/7.png
+./coco/images/8.png
+./coco/images/9.png

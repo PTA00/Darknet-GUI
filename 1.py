@@ -460,7 +460,7 @@ label1.SetFont(font)
 #     if image.Width > image.Height:
 #         image.Rescale(400,image.Height*(400/image.Width),wx.IMAGE_QUALITY_HIGH)
 #     else:
-#         image.Rescale(image.Width*(330/image.Height),330,wx.IMAGE_QUALITY_HIGH)
+#         image.Rescale(int(image.Width*(330/image.Height)),330,wx.IMAGE_QUALITY_HIGH)
 # temp = image.ConvertToBitmap()
 # bmp = wx.StaticBitmap(mb, bitmap=temp,pos=(360,5),size=(400,330))
 
